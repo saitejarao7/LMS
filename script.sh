@@ -15,3 +15,5 @@ sudo rm -r /var/www/html
 
 echo "Deploy login app"
 sudo git clone https://github.com/saitejarao7/LMS.git /var/www/html
+
+echo "webapp deployed"
